@@ -1,4 +1,4 @@
-# Design-and-Implementation-of-Digital-Water-Level-Indicator
+# Digital-Water-Level-Indicator
 
 ## Project Overview
 In this project I have explained 2 software simulation of water level indicator.
