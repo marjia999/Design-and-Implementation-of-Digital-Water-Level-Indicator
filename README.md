@@ -4,7 +4,7 @@
 In this project I have explained 2 software simulation of water level indicator.
 
 ## Water Level Indicator using 555 Timer & 7 Segment Display
-![1](images/1.png)
+![1](images/2.png)
 
 ### Components
 
@@ -31,7 +31,7 @@ This project presents a **Digital Water Level Indicator** designed using digital
 ---
 
 ## Water Level Indicator using NOT Gate
-![2](images/2.png)
+![2](images/1.png)
 
 ### Components
 
@@ -53,6 +53,9 @@ This circuit uses simple NOT gates, resistors, capacitors, NPN transistors, and 
 
 ### Hardware Implementation
 ![Hardware](images/3.png)
+
+**Watch the hardware implementation video:**
+[Water Level Indicator using NOT Gate - Implementation Video](https://drive.google.com/file/d/1VvY04woTt1_ATNp3qRwWP2Vsuy4SgIW4/view?usp=drive_link)
 ---
 
 ## 👤 Author
