@@ -54,9 +54,9 @@ This circuit uses simple NOT gates, resistors, capacitors, NPN transistors, and 
 ### Hardware Implementation
 ![Hardware](images/3.png)
 
-Watch the hardware implementation video:
-[Water Level Indicator using NOT Gate - Implementation Video](https://drive.google.com/file/d/1VvY04woTt1_ATNp3qRwWP2Vsuy4SgIW4/view?usp=drive_link)
----
+[Video](https://drive.google.com/file/d/1VvY04woTt1_ATNp3qRwWP2Vsuy4SgIW4/view?usp=drive_link)
+
+--
 
 ## Contact
 - **Email**: marjiakhatun.my@gmail.com
