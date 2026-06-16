@@ -51,12 +51,10 @@ This project presents a **Digital Water Level Indicator** designed using digital
 
 This circuit uses simple NOT gates, resistors, capacitors, NPN transistors, and LEDs to indicate water levels. When water touches a sensor wire in the tank, it completes the circuit path to ground, creating a LOW signal. The NOT gate inverts this LOW signal to HIGH, which then drives the corresponding LED through the BC547 transistor. The LEDs indicate Empty, Low, Half, and Full water levels sequentially as water rises. The transistor acts as a switch, providing enough current to light up the LEDs with proper brightness. This simple design effectively displays water levels without any microcontroller or complex logic.
 
-### Hardware Implementation
+### Hardware Implementation [🔗](https://drive.google.com/file/d/1VvY04woTt1_ATNp3qRwWP2Vsuy4SgIW4/view?usp=drive_link)
 ![Hardware](images/3.png)
 
-[Video](https://drive.google.com/file/d/1VvY04woTt1_ATNp3qRwWP2Vsuy4SgIW4/view?usp=drive_link)
-
---
+---
 
 ## Contact
 - **Email**: marjiakhatun.my@gmail.com
